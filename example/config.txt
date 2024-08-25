@@ -1,0 +1,2 @@
+Prefix plugins/SEPP/example/
+Plugin SEPP inputfile parameters.txt outputfile none

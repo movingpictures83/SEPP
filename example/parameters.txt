@@ -1,0 +1,5 @@
+config_file	test2.config
+alignment_file	reference_alignment_tiny.fasta
+info_file	RAxML_info-reference-gg-raxml-bl.info
+tree_file	reference_phylogeny_tiny.nwk
+fragments_file	input_fragments.fasta
